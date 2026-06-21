@@ -77,15 +77,6 @@ Isso permite que seus anúncios sejam aprovados pelas plataformas de ads enquant
 4. **Copie o link** e use como destino no seus anúncios
 5. **Monitore nos Logs** → veja quem passou e quem foi bloqueado
 
-## 💰 Planos
-
-| Plano | Preço | Páginas |
-|-------|-------|---------|
-| **Trial** | Grátis | 1 página por 7 dias |
-| **Starter** | R$ 19,90/mês | 3 páginas |
-| **Pro** | R$ 49,90/mês | 5 páginas |
-| **Unlimited** | R$ 97,90/mês | Ilimitadas |
-
 A camuflagem de criativos (vídeo, imagem, áudio) é **100% grátis** com limite de 7 ações por 3 horas.
 
 ## 🔧 Plataformas Suportadas
