@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://buymeacoffee.com/cloakfy">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Apoie%20o%20Cloakfy-00FF66?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
+
 # 🔮 Cloakfy — Cloaker Grátis para Meta Ads, TikTok e Google Ads
 
 <p align="center">
@@ -197,6 +203,18 @@ Utilizado em dois módulos:
 - **Pagamento:** Abacate Pay
 - **Alertas:** Telegram Bot API
 - **i18n:** i18next (PT/EN/ES)
+
+---
+
+
+## 💚 Apoie o projeto
+
+O Cloakfy é gratuito e mantido pela comunidade. Se o Cloakfy te ajuda, 
+considere apoiar pra manter a plataforma no ar e desenvolver novas features.
+
+<a href="https://buymeacoffee.com/cloakfy">
+  <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-00FF66?style=for-the-badge" alt="Apoie">
+</a>
 
 ---
 
